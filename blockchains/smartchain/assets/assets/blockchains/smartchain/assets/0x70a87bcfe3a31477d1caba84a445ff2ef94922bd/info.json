@@ -1,18 +1,18 @@
 {
-  "id": "mtk-LOBABY",  // 自定义唯一ID，字母+数字+横线，比如代币英文名
-  "name": "LOBABY",  // 代币名称
-  "symbol": "MTK",  // 代币符号
-  "decimals": 18,  // 小数位数（保持18即可）
-  "type": "token",  // 必填，固定值：token
-  "description": "An enterprise-grade decentralized AI-driven token protocol built on next-gen blockchain infrastructure, establishing an unprecedented benchmark for technological innovation and intelligent value ecology. The development team has fully donated all locked funds and token reserves, with no private reservations, no team shareholdings, and no centralized control—achieving complete on-chain decentralization and genuine community autonomy. Each transaction automatically triggers a precise 2% deflationary burn mechanism, permanently reducing total supply and enhancing long-term scarcity through unchangeable smart contract logic. As a core derivative of Lobster Coin and an upgraded AI iteration of Lobster AI, Lobaby represents the most advanced, powerful, and revolutionary blockchain application in the ecosystem. It serves as the strongest successor and core force of the Lobster family, leading the next wave of intelligent blockchain evolution and unlocking the future of decentralized artificial intelligence.",  // 代币描述（英文）
-  "address": "0x70a87bcfe3a31477d1caba84a445ff2ef94922bd",  // 你的合约地址
-  "status": "active",  // 必填，固定值：active（不能填其他）
-  "website": "https://twitter.com/lobaby",  // 官网（必填，哪怕是测试链接）
-  "explorer": "https://bscscan.com/token/0x70a87bcfe3a31477d1caba84a445ff2ef94922bd",  // BscScan 代币链接（必填）
-  "links": {  // 至少填2个社交链接，下面是示例
-    "twitter": "https://twitter.com/lobaby",
-    "telegram": "https://t.me/lobaby"
+  "id": "lobaby-token",
+  "name": "Lobaby",
+  "symbol": "MTK",
+  "decimals": 18,
+  "type": "token",
+  "description": "An ultra-premium, next-generation decentralized AI-powered token protocol built on enterprise-grade blockchain infrastructure, setting an unprecedented benchmark for technological innovation and intelligent value ecology. All locked funds and token reserves have been completely donated by the development team with zero private reservation, zero team holdings, and zero centralized control—achieving full on-chain decentralization and true community autonomy. Every transaction automatically triggers a 2% deflationary burn mechanism, permanently reducing total supply and strengthening long-term scarcity through immutable smart contract logic. As the baby derivative of Lobster Coin and the next-gen AI evolution of Lobster AI, Lobaby represents the most advanced, powerful, and revolutionary AI-driven blockchain iteration in the ecosystem—the strongest successor and future core of the Lobster family, leading the next wave of intelligent blockchain evolution and unlocking the future of decentralized artificial intelligence.",
+  "address": "0x70a87bcfe3a31477d1caba84a445ff2ef94922bd",
+  "status": "active",
+  "website": "https://lobaby-official.com",
+  "explorer": "https://bscscan.com/token/0x70a87bcfe3a31477d1caba84a445ff2ef94922bd",
+  "links": {
+    "twitter": "https://twitter.com/LobabyOfficial",
+    "telegram": "https://t.me/LobabyCommunity"
   },
-  "tags": ["utility", "bsc"],  // 至少1个标签，比如 bsc、defi、utility 等
-  "holders": 100  // 手动填持有者数量（随便填一个合理数字，比如100）
+  "tags": ["AI", "Web4.0", "BSC", "deflationary"],
+  "holders": 500
 }
