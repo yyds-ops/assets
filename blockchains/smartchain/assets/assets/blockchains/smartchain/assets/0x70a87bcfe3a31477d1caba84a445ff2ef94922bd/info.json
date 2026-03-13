@@ -9,10 +9,16 @@
   "status": "active",
   "website": "https://lobaby-official.com",
   "explorer": "https://bscscan.com/token/0x70a87bcfe3a31477d1caba84a445ff2ef94922bd",
-  "links": {
-    "twitter": "https://twitter.com/LobabyOfficial",
-    "telegram": "https://t.me/LobabyCommunity"
-  },
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/LobabyOfficial"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/LobabyCommunity"
+    }
+  ],
   "tags": ["AI", "Web4.0", "BSC", "deflationary"],
   "holders": 500
 }
