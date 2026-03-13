@@ -1,24 +1,28 @@
 {
-  "id": "0x70a87bcfe3a31477d1caba84a445ff2ef94922bd",
+  "id": "0x70a87bCfe3a31477D1caBa84a445fF2ef94922bd",
   "name": "Lobaby",
   "symbol": "LOBABY",
   "type": "BEP20",
-  "address": "0x70a87bcfe3a31477d1caba84a445ff2ef94922bd",
+  "address": "0x70a87bCfe3a31477D1caBa84a445fF2ef94922bd",
   "decimals": 18,
   "status": "active",
-  "description": "Next-gen decentralized token on BSC, core revolution of Web4.0 🦞. Different from traditional meme coins, it links to BTC value with 2% auto burn mechanism. All tokens donated to community, governed by global decentralized community, leading blockchain evolution.",
-  "website": "https://x.com/LobabyOfficial",
-  "explorer": "https://bscscan.com/token/lobaby",
+  "description": "Decentralized BEP20 token on BSC with 2% deflationary burn. BTC value-linked, community-governed, all team reserves donated to community.",
+  "website": "https://lobaby.ai",
+  "explorer": "https://bscscan.com/token/0x70a87bCfe3a31477D1caBa84a445fF2ef94922bd",
   "links": [
     {
-      "name": "x",
+      "name": "twitter",
       "url": "https://x.com/LobabyOfficial"
     },
     {
       "name": "telegram",
       "url": "https://t.me/LobabyCommunity"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/LobabyCommunity"
     }
   ],
-  "tags": ["Web4.0", "BSC", "deflationary", "BTC", "community-governed"],
-  "holders": 500
+  "tags": ["BSC", "deflationary", "BTC", "community"],
+  "holders": 800
 }
