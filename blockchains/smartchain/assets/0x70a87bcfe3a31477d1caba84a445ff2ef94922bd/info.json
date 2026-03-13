@@ -1,28 +1,24 @@
 {
-  "id": "lobaby-bsc-token",
+  "id": "0x70a87bcfe3a31477d1caba84a445ff2ef94922bd",
   "name": "Lobaby",
   "symbol": "LOBABY",
   "type": "BEP20",
   "address": "0x70a87bcfe3a31477d1caba84a445ff2ef94922bd",
   "decimals": 18,
   "status": "active",
-  "description": "An ultra-premium next-generation decentralized token protocol built on enterprise-grade BSC infrastructure, representing a core revolution in the Web4.0 era 🦞. Distinguished from traditional meme coins, it integrates cutting-edge technology and BTC value anchoring, serving as the core transaction currency for the future digital ecosystem. All locked funds and token reserves are fully donated to the community with zero private holdings by the team, and each transaction triggers an immutable 2% deflationary burn mechanism to permanently reduce total supply and enhance long-term scarcity. As the next-gen evolution of Lobster AI, Lobaby is governed by a global decentralized community and stands as the most revolutionary technological iteration in the Lobster ecosystem, leading the intelligent blockchain evolution wave.",
-  "website": "https://x.com/Lobaby",
-  "explorer": "https://bscscan.com/token/0x70a87bcfe3a31477d1caba84a445ff2ef94922bd",
+  "description": "Next-gen decentralized token on BSC, core revolution of Web4.0 🦞. Different from traditional meme coins, it links to BTC value with 2% auto burn mechanism. All tokens donated to community, governed by global decentralized community, leading blockchain evolution.",
+  "website": "https://x.com/LobabyOfficial",
+  "explorer": "https://bscscan.com/token/lobaby",
   "links": [
     {
-      "name": "twitter",
-      "url": "https://x.com/Lobaby"
+      "name": "x",
+      "url": "https://x.com/LobabyOfficial"
     },
     {
       "name": "telegram",
-      "url": "https://t.me/Lobaby"
-    },
-    {
-      "name": "discord",
-      "url": "https://discord.gg/Lobaby"
+      "url": "https://t.me/LobabyCommunity"
     }
   ],
-  "tags": ["Web4.0", "BSC", "deflationary", "LobsterAI", "BTC", "community-governed"],
-  "holders": 100
+  "tags": ["Web4.0", "BSC", "deflationary", "BTC", "community-governed"],
+  "holders": 500
 }
