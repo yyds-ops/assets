@@ -7,7 +7,7 @@
   "decimals": 18,
   "status": "active",
   "description": "Decentralized BEP20 token on BSC with 2% deflationary burn. BTC value-linked, deflationary-governed, all team reserves donated to deflationary.",
-  "website": "https://lobaby.ai",
+  "website": "https://lobaby.info",
   "explorer": "https://bscscan.com/token/0x70a87bCfe3a31477D1caBa84a445fF2ef94922bd",
   "links": [
     {
@@ -24,5 +24,5 @@
     }
   ],
    "tags": ["deflationary"],
-  "holders": 0
+  "holders": 91
 }
