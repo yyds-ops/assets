@@ -12,17 +12,17 @@
   "links": [
     {
       "name": "twitter",
-      "url": "https://x.com/LobabyOfficial"
+      "url": "https://x.com/Lobaby"
     },
     {
       "name": "telegram",
-      "url": "https://t.me/LobabyCommunity"
+      "url": "https://t.me/Lobaby"
     },
     {
       "name": "discord",
-      "url": "https://discord.gg/LobabyCommunity"
+      "url": "https://discord.com/Lobaby"
     }
   ],
-  "tags": ["BSC", "deflationary", "BTC", "community"],
-  "holders": 31
+  "tags": ["deflationary", "deflationary", "BTC", "community"],
+  "holders": 32
 }
