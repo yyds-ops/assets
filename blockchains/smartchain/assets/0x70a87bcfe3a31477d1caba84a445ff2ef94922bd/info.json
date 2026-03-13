@@ -1,0 +1,27 @@
+{
+  "id": "lobaby",
+  "name": "Lobaby",
+  "symbol": "LOBABY",
+  "type": "BEP20",
+  "address": "0x70a87bcfe3a31477d1caba84a445ff2ef94922bd",
+  "decimals": 18,
+  "status": "active",
+  "description": "An ultra-premium next-generation decentralized AI-powered token protocol built on enterprise-grade BSC infrastructure, representing a core revolution in the Web4.0 era 🦞. Distinguished from traditional meme coins, it integrates cutting-edge AI technology and BTC value anchoring, serving as the core transaction currency for the future AI ecosystem. All locked funds and token reserves are fully donated to the community with zero private holdings by the team, and each transaction triggers an immutable 2% deflationary burn mechanism to permanently reduce total supply and enhance long-term scarcity. As the next-gen AI evolution of Lobster AI, Lobaby is governed by a global decentralized community and stands as the most revolutionary technological iteration in the Lobster ecosystem, leading the intelligent blockchain evolution wave.",
+  "website": "https://lobaby.ai",
+  "explorer": "https://bscscan.com/token/0x70a87bcfe3a31477d1caba84a445ff2ef94922bd",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Lobaby"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Lobaby"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/Lobaby"
+    }
+  ],
+  "tags": ["AI", "Web4.0", "BSC", "deflationary", "LobsterAI", "BTC", "community-governed"]
+}
